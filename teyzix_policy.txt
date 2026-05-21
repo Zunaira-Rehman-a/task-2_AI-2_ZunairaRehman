@@ -1,0 +1,16 @@
+TEYZIX CORE - STANDARD OPERATING PROCEDURES AND HR POLICY MANUAL (2026)
+
+1.0 WORK SCHEDULE AND ATTENDANCE
+The official working hours for TEYZIX CORE are from 09:00 AM to 05:00 PM, Monday through Friday. All employees are expected to be at their designated workstations or logged in remotely by 09:15 AM at the latest. A core lunch and rest break is allocated from 01:00 PM to 02:00 PM daily.
+
+2.0 REMOTE WORK AND HYBRID POLICY
+TEYZIX CORE operates on a hybrid work model. Employees are required to work from the office for a minimum of three days per week (Monday to Wednesday). Remote work is permitted on Thursdays and Fridays, subject to prior alignment with the respective Department Head and maintaining clear communication lines via official Slack channels.
+
+3.0 LEAVE ENTITLEMENT AND APPROVALS
+All full-time permanent employees are entitled to 14 days of Annual Paid Leave, 10 days of Medical Leave, and 10 days of Casual Leave per calendar year. Any planned leave exceeding two consecutive working days must be submitted through the internal employee portal at least 5 business days in advance for management approval.
+
+4.0 INFORMATION SECURITY AND DATA PRIVACY
+Employees must ensure that all proprietary data, software source codes, and client credentials related to TEYZIX CORE projects remain strictly confidential. Accessing company systems over unsecured public Wi-Fi networks without an active corporate VPN is strictly prohibited. Sharing internal documents outside the official organizational domain will result in immediate disciplinary action.
+
+5.0 ARTIFICIAL INTELLIGENCE AND LOCAL INFRASTRUCTURE
+TEYZIX CORE actively promotes the integration of intelligent algorithms and local automated systems to optimize workflow efficiency. The engineering department is responsible for maintaining secure, offline data pipelines and local retrieval systems to assist team operations without exposing sensitive data to external third-party cloud APIs.
